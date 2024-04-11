@@ -1,1 +1,1 @@
-https://zubaha.github.io/goit-js-hw-01/
+https://zubaha.github.io/goit-js-hw-02/
